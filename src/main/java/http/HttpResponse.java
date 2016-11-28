@@ -15,7 +15,7 @@ public class HttpResponse {
 
     private static Logger log = Logger.getLogger(String.valueOf(HttpResponse.class));
 
-    public static final String VERSION = "HTTP/1.0";
+    public static final String VERSION = "HTTP/1.1";
 
     List<String> headers = new ArrayList<String>();
 
