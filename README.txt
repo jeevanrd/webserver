@@ -17,6 +17,6 @@ This will create a "target" folder containing the application jar file: java-Web
 RUNNING
 =======
 Start the Java Web Server using the following command:
-    $ java -jar web-server.jar <PORT_NUMBER>
+    $ java -jar target/java-webserver-0.1-jar-with-dependencies.jar <PORT_NUMBER>
 
 To stop the Simple Web server, just press Cntr+C on the command line. (The parameter PORT_NUMBER is optional, default port is 8080)

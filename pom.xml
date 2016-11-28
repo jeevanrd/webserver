@@ -27,7 +27,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.java-webserver.java.WebServer</mainClass>
+                            <mainClass>WebServer</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
