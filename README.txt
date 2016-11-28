@@ -1,7 +1,7 @@
 Java Web Server
 ===============
 
-A simple multi-threaded HTTP 1.1 Server implemented in Java based on W3C specifications (http://www.w3.org/Protocols/) (https://github.com/jeevanrd/webserver0.
+A simple multi-threaded HTTP 1.1 Server implemented in Java based on W3C specifications (http://www.w3.org/Protocols/) (https://github.com/jeevanrd/webserver).
 
 
 COMPILING
